@@ -62,7 +62,7 @@ arquivo_perdido = arquivo1 ⊕ arquivo2 ⊕ paridade
 ## 🧠 Conceitos Técnicos
 
 - **Paridade XOR**: Método eficiente para cálculo de redundância
-- **RAID Nível 5 Adaptado**: Princípio de paridade distribuída simplificado
+- **RAID Nível 3 Adaptado**: Princípio de paridade simplificado
 - **Recuperação de Dados**: Algoritmo que reconstroi dados faltantes
 - **Tratamento de Falhas**: Sistema detecta automaticamente arquivos ausentes
 
